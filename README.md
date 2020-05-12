@@ -1,2 +1,2 @@
 # OF1webapp
-Web app for project of my company
+Webapp for project of my company
